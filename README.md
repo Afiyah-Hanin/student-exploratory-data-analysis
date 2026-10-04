@@ -25,7 +25,7 @@ The dataset contains information about students, including demographic details, 
 - Analysis of student performance
 
 ## Files
-- `Student_Performance_Analysis_EDA_Project.ipynb` — Main project notebook
+- `student-exploratory-data-analysis.ipynb` — Main project notebook
 
 ## Conclusion
 The project uses data analysis and visualization techniques to explore patterns in student performance.
